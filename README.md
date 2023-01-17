@@ -4,9 +4,7 @@
 
 - [Description](#description)
 - [How to Run the Application](#howtorun)
-- [Roadmap of Future Improvements](#roadmap)
 - [License](#license)
-- [Demo](#demo)
 
 ## Description
 This is a React project which uses Express and Graphql to provide APIs to a restaurant schema.  
